@@ -23,11 +23,3 @@ indices:
       lastModified:
         select: none
         value: parseTimestamp(headers['last-modified'], 'ddd, DD MMM YYYY hh:mm:ss GMT')
-
-  de:
-    <<: *def
-    include:
-      - '/de/blog/**'
-    exclude:
-      - '/de/blog/drafts/**'
-    target: /de/blog/query-index.xlsx
