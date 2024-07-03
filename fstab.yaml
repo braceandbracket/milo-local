@@ -4,4 +4,4 @@
 # 2. Google Drive is no longer allowed for production Adobe projects.
 
 mountpoints:
-  /: https://drive.google.com/drive/folders/1FBT7f0EvntVcNhnNbIzyv9R8GU8BK8F8
+  /: https://adobe-my.sharepoint.com/:f:/r/personal/all53703_adobe_com/Documents/milo-local?csf=1&web=1&e=qhAS7Z
